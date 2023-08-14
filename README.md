@@ -1,7 +1,7 @@
-# AgendaProject
+# AgendaContatos
 Oláa! 
 Hoje venho levantar o estudo dos conceitos basicos sobre inicialização com Spring Boot. 
-Nessa aplicação o objetivo foi a criação de um sistema de agenda para guardar os dados de um cliente, por exemplo.
+Nessa aplicação o objetivo foi a criação de um sistema de agenda para guardar os contatos, como o nome, telefone, email e foto de perfil, por exemplo.
 Para isso foi necessario apicar as quatro operações mais importantes na programação, conhecido como CRUD (Create, Read, Update, Delete).
 
 Para inicialização, o sistema foi configurado com Maven, responsavel pelo gerenciamento da linguagem Java e inclui algumas dependencias como a H2,
